@@ -1,0 +1,28 @@
+name: MICHEL x Michel
+favicon: null
+layout_spectrum: 0.9469534917734563
+typography_spectrum: 0.616790947271511
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9981262823566794
+  lightness: 0.3304165764711797
+  saturation: 0.635749350534752
+  rhythmicContrast: 0.5225479935761541
+purpose: []
